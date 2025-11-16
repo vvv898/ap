@@ -9,9 +9,8 @@ public class Factorial_Of_Number {
     int a;
     long factorial_a;
 
-    public void Calculate() {
-        System.out.print(" \nEnter a number: ");
-        System.out.print(" \nEnter a number: ");
+    public void inputAndCalculate() {
+        System.out.print(" \nENTER THE VALUE: ");
         int buff_a = sc.nextInt();
         setA(buff_a);
 
