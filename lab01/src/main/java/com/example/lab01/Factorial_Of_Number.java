@@ -11,6 +11,7 @@ public class Factorial_Of_Number {
 
     public void inputAndCalculate() {
         System.out.print(" \nEnter a number: ");
+        System.out.print(" \nEnter a number: ");
         int buff_a = sc.nextInt();
         setA(buff_a);
 
